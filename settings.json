@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "fxmsmp.aternos.me",
+    "port": 28174,
     "version": "1.19.3"
   },
 
